@@ -10,4 +10,4 @@
 
 4. Give a quick notice to everyone that you have updated the dev branch.
 
-** DO NOT PUSH TO MASTER WITHOUT GROUP CONSENT **
+**DO NOT PUSH TO MASTER WITHOUT GROUP CONSENT**
