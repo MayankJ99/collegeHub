@@ -1,6 +1,6 @@
 # collegeHub
 
-# Rules:
+## Rules:
 
 1. Before you start work for the day/on a new task, make sure your branch is up to date with the dev branch.
 
